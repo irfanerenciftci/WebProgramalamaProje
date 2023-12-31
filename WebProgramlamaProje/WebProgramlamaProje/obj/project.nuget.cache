@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "KmX0XhOoyDlW4UxG0lyft3tGJQvRZx70Jn6evYG5nkrC6Rnd4MFn11qbf0i4UdTw+9M+QgLsfUQKUtgpCYRxaA==",
+  "dgSpecHash": "F8e/EN0AsG3rVDXrHtOF40iOvN04A7+7NKxHJlbKwbR36AmdO9dwuAu+A4XkTrz0mUpqXHzqwGEhISfhqiChuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\irfan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

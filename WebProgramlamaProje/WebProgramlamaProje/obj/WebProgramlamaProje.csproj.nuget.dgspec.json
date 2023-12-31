@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj": {}
+    "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj": {
+    "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
+        "projectUniqueName": "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
         "projectName": "WebProgramlamaProje",
-        "projectPath": "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
+        "projectPath": "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\WebProgramlamaProje.csproj",
         "packagesPath": "C:\\Users\\irfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irfan\\Desktop\\WebProgramlama\\WebProgramlamaProje\\WebProgramlamaProje\\obj\\",
+        "outputPath": "C:\\Users\\irfan\\Documents\\GitHub\\WebProgramalamaProje\\WebProgramlamaProje\\WebProgramlamaProje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
